@@ -1,5 +1,5 @@
 ### Greetings 👋
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Css]
 ## I'm a web developer from Los Angeles, CA
 
 - 🔭 I’m currently working on ...
