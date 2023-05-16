@@ -4,8 +4,8 @@
 ## I'm a web developer from Los Angeles, CA
 
 - 🔭 I’m currently working on improving my time and space complexities
-- 🌱 I’m currently learning better programming techniques to enhance my applications
+- 🌱 Learning better programming techniques to enhance my applications
 - 👯 I’m looking to collaborate on any project that revolves around gaming
-- 🤔 I’m looking for help with recursion and arrow functions
+- 🤔 Looking for help with recursion and arrow functions
 - 💬 Ask me about yugioh stuff
 - ⚡ Fun fact: Ive been in the technology sector for a while, but i am fresh at coding. I dont have a tiktok; i am not with the times.
