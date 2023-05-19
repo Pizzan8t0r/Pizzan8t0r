@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on any project that revolves around gaming
 - 🤔 Looking for help with recursion and arrow functions
 - 💬 Ask me about yugioh stuff
-- ⚡ Fun fact: Ive been in the technology sector for a while, but i am fresh at coding. I dont have a tiktok; i am not with the times.
+- ⚡ Fun fact: I've been in the technology sector for a while, but i am fresh at coding. I dont have a tiktok; I am not with the times.
